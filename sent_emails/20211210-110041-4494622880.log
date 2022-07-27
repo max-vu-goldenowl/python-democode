@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: super_admin@example.com
+Date: Fri, 10 Dec 2021 11:00:41 -0000
+Message-ID: <163913404147.9811.14745295862565084986@inmacs-MacBook-Pro.local>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/axft95-df5f40a8db2e34246a09cd79e0951394/
+
+Your username, in case you’ve forgotten: superadmin
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
